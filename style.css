@@ -1,0 +1,8 @@
+html.html_boxed {
+    background: #f7f7f7 url(//gotit.com.ua/wp-content/uploads/2013/04/got_bg1.png) top center repeat scroll;
+}
+html.responsive, .responsive body {
+    overflow-x: hidden;
+}
+html.responsive {
+    min-width: 0px;
